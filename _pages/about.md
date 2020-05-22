@@ -8,10 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Master student at the Robotics Institute, Carnegie Mellon University. I am advised by Dr. [John Galeotti](https://www.ri.cmu.edu/ri-faculty/john-galeotti/). My research topics are about ultrasound image analysis and vision guidance of medical robots. More specifically, I am interested in the real-time ultrasound image segmentation or localization, and better control with image guidance in robot-assisted surgery.
+I am a research track Master student at the Robotics Institute at Carnegie Mellon University. I am advised by Dr. [John Galeotti](https://www.ri.cmu.edu/ri-faculty/john-galeotti/), working in [Biomedical Image Guidance Lab](https://www.ri.cmu.edu/robotics-groups/biomedical-image-guidance/). My research topics are about ultrasound image analysis and vision guidance of medical robots. I am interested in the real-time ultrasound image segmentation or localization, and better control with image guidance in robot-assisted surgery.
 
-I got my B.S. in Theoretical and Applied Mechanics from Peking University, Beijing, China. I worked with the Robotics Research Group at Peking University advised by Professor [Qining Wang](http://www2.coe.pku.edu.cn/subpaget.asp?id=232).
-My research topics were about human movement measurement and analysis, locomotion mode recognition and sensor fusion.
-I visited [Biomechatronics Lab](https://uclabiomechatronics.wordpress.com/) at University of California, Los Angeles, advised by Professor [Veronica J. Santos](https://samueli.ucla.edu/people/veronica-santos/), for [the Cross-disciplinary Scholars in Science and Technology (CSST)](https://csst.ucla.edu/) summer research program in 2018.
-My research topic was to use inertial measurement units to capture hand motion primitives and motion intent recognition.
-
+I received my Bachelor of Science degree in Theoretical and Applied Mechanics from Peking University, Beijing, China. I worked in the Robotics Research Group at Peking University advised by Professor [Qining Wang](http://www2.coe.pku.edu.cn/subpaget.asp?id=232) from 2017 to 2019, and I visited [Biomechatronics Lab](https://uclabiomechatronics.wordpress.com/) at University of California, Los Angeles, advised by Professor [Veronica J. Santos](https://samueli.ucla.edu/people/veronica-santos/), for [the Cross-disciplinary Scholars in Science and Technology (CSST)](https://csst.ucla.edu/) summer research program in 2018.
+My research topics are about using inertial measurment units to capture human motions and using machine learning for locomotion mode or motion intent recognition.
