@@ -41,7 +41,7 @@ Work experiences
 
 Publications
 ======
-* Wang Q. et al. (2020). An Underwater Lower-Extremity Soft Exoskeleton for Breaststroke Assistance. IEEE Transactions on Medical Robotics and Bionics, early access, doi: 10.1109/TMRB.2020.2993360.
+* Wang Q. et al. (2020). An Underwater Lower-Extremity Soft Exoskeleton for Breaststroke Assistance. IEEE Transactions on Medical Robotics and Bionics, doi: 10.1109/TMRB.2020.2993360.
 
 * Feng, Y., Chen, W., & Wang, Q. (2019). A strain gauge based locomotion mode recognition method using convolutional neural network. Advanced Robotics, 33(5), 254-263.
 
