@@ -13,12 +13,14 @@ Education
 ======
 * M.S. in Robotics, Carnegie Mellon University, 2021 (expected)
   * GPA: 4.17/4.33
-  * Selected Course Work: Computer Vision, Medical Image Analysis
+  * Selected Courses: Computer Vision, Medical Image Analysis, Mechanics of Manipulation
 * B.S. in Theoretical and Applied Mechanics, Peking University, 2019
   * GPA: 3.78/4.00
-  * Selected Course Work:  Theoretical Mechanics, Advanced Dynamics, Data Structure and Algorithm, Information Theory, Machine Learning, Principles of Automatic Control
-
-# * Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+  * Selected Courses:
+    * Mathematics: Advanced Calculus, Advanced Algebra, Probability and Mathematical Statistics, Ordinary Differential Equations, Methematical Physics, Information Theory, Applied Stochastic Processes, Foundations of Machine Learning
+    * Mechanics: Theoretical Mechanics, Advanced Dynamics, Mechanics of Materials, Theory of Elasticity, Computational Fluid Dynamics, Theory of Vibration
+    * Programming and numerical methods: Data Structure and Algorithm, Numerical Analysis, Finite Element Methods
+    * Engineering: Circuits and Electronics, Principles of Automatic Control, Fundamentals of Medical Imaging, Engineering CAD
 
 Work experiences
 ======
@@ -62,7 +64,10 @@ Skills
   
 Teaching
 ======
-* Tutor at College of Engineering, Peking University (Sep 2018 - Jun 2019)
+* Extra class tutor (Sep 2018 - Jun 2019)
+  * College of Engineering, Peking University
+  * Introduction to Computation in Fall 2018 (about 20 freshmen) 
+  * Mathematics in Engineering in Spring 2019 (about 10 sophomores)
   
 <!-- Service and leadership
 ======
