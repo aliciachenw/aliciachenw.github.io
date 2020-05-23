@@ -18,25 +18,34 @@ Education
   * GPA: 3.78/4.00
   * Selected Courses:
     * Mathematics: Advanced Calculus, Advanced Algebra, Probability and Mathematical Statistics, Ordinary Differential Equations, Methematical Physics, Information Theory, Applied Stochastic Processes, Foundations of Machine Learning
-    * Mechanics: Theoretical Mechanics, Advanced Dynamics, Mechanics of Materials, Theory of Elasticity, Computational Fluid Dynamics, Theory of Vibration
-    * Programming and numerical methods: Data Structure and Algorithm, Numerical Analysis, Finite Element Methods
-    * Engineering: Circuits and Electronics, Principles of Automatic Control, Fundamentals of Medical Imaging, Engineering CAD
+    * Mechanics: Theoretical Mechanics, Advanced Dynamics, Mechanics of Materials, Theory of Elasticity, Theory of Vibration
+    * Programming and numerical methods: Data Structure and Algorithm, Numerical Analysis, Finite Element Methods，Computational Fluid Dynamics
+    * Other engineering: Circuits and Electronics, Principles of Automatic Control, Fundamentals of Medical Imaging, Engineering CAD
 
 Work experiences
 ======
 * Graduate Research Assistant (Oct 2019 - Present)
   * Biomedical Image Guidance Lab, Carnegie Mellon University
-  * Research topics: ultrasound-guided surgery, surgical instrument detection and tracking
-  * Supervisor: Professor John Galeotti
+  * Research topics:
+    * Ultrasound-guided robot needle steering system
+    * Needle localization and tracking in different visibility
+    * Ultrasound-based tissue motion field generation
+  * Supervisor: Dr. John Galeotti
 
 * Undergraduate Research Assistant (Sep 2017 - Jun 2019)
   * Robotics Research Group, Peking University
-  * Research topics: intelligent assistive devices, human movement measurement, sensor fusion
+  * Research topics: 
+    * Machine learning and intelligent assistive devices 
+    * Inertial measurement unit-based human movement measurement
+    * Sensor fusion
   * Supervisor: Professor Qining Wang
 
 * Visiting Research Assitant (Jul 2018 - Sep 2018)
   * Biomechatronics Lab, UCLA
-  * Research topics: discover human hand motion primitives in the digging task using inertial measurement units
+  * Research topics: 
+    * Inertial measurement unit-based human movement measurement
+    * Unsupervised learning motion pattern
+    * Machine learning in motion intent recognition
   * Supervisor: Professor Veronica J. Santos
 
 Publications
