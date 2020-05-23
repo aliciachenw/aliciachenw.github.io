@@ -19,7 +19,7 @@ Education
   * Selected Courses:
     * Mathematics: Advanced Calculus, Advanced Algebra, Probability and Mathematical Statistics, Ordinary Differential Equations, Methematical Physics, Information Theory, Applied Stochastic Processes, Foundations of Machine Learning
     * Mechanics: Theoretical Mechanics, Advanced Dynamics, Mechanics of Materials, Theory of Elasticity, Theory of Vibration
-    * Programming and numerical methods: Data Structure and Algorithm, Numerical Analysis, Finite Element Methods，Computational Fluid Dynamics
+    * Programming and numerical methods: Data Structure and Algorithm, Numerical Analysis, Finite Element Methods, Computational Fluid Dynamics
     * Other engineering: Circuits and Electronics, Principles of Automatic Control, Fundamentals of Medical Imaging, Engineering CAD
 
 Work experiences
