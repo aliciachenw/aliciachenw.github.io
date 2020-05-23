@@ -79,7 +79,7 @@ Selected Academic Projects
 
 
 * Optimization-based planning method for robot lifting
-    * 16-741 Mechanics of Manipulation Course Project, Fall 2019, Carnegie Mellon University
+    * 16-741 Mechanics of Manipulation, Fall 2019, Carnegie Mellon University
 
     In this project, I used Matlab to implement an optimization-based planning method, trying to minimize a goal function dened by the torque and the length of the trajectory. The project explores how different optimization goals influence the optimal trajectory, and finds that diffrent optimization goals sometimes can lead to similar results.
     ![Robot Arm Lifting Optimization](https://aliciachenw.github.io/images/project-lifting-optimization.png)
