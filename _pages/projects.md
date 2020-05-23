@@ -18,7 +18,9 @@ Research Projects
     * Dec 2018 - Jul 2019, The Robotics Research Group, Peking University
 
     This project is for my undergraduate thesis at Peking University. It aims at using Kalman Filter algorithm to fuse data from a nine-axis IMU (a three-axis acclerometer, a three-axis gyrometer and a three-axis magnetometer) to calculate its current attitude. 
+
     My contributions:
+
     - Analyze the performance of three sensors using Allan Variance Analysis
     - Implement the performance of Extended Kalman Filter and Unscented Kalman Filter, and a simple but effective Adaptive Kalman Filter
     - Test three algorithms in simulation and experiments in three locomotion modes
@@ -30,11 +32,14 @@ Research Projects
     * [Publication](https://aliciachenw.github.io/publication/2020-05-08)
 
     This project is to use IMU to study human movement of swimming, and the characteristics and laws of muscle activity. 
+    
     My contributions:
+    
     - Investigate previous swimming locomotion kinematics and energetic analysis methods
     - Implement a joint angle measurement system based on IMU in both Matlab and C
     - compare the results from the system with those from optical motion capture system. 
     - Analyze the angle of knees for four swimming strokes in one cycle and extracted both time domain and frequent domain features.
+    
     I found that the calculated angles are in accord with the ones measured by the optical motion capture system. The measured angles and features are in accord with the characters of each swimming stroke, and the accuracy of a simple linear SVM based on four simple time domain features achieve high accuracy in stroke recognition. 
     ![Swimming Locomotion Analysis](https://aliciachenw.github.io/images/project-imu-swimming.png)
 
@@ -42,8 +47,10 @@ Research Projects
     * Jul 2018 - Sep 2018, Biomechatronics Lab, UCLA
 
     This project was supported by CSST-UCLA program. The motivation of this project is to understand hand movements during the task of searching and retrieving buried objects in a sandbox. The main study method is inspired by the methods in NLP because of the similarity between human movements and language. Motion primitives are often defined as the small units of human movements, and motion primitives are sequential data composed of static postures at certain time. It’s similar with our language, because sentences can be divided into words, and words can be divided into letters. So we use models in NLP to model motion primitives.
+    
     My contributions:
-	- Calibrate IMU sensors
+	
+    - Calibrate IMU sensors
     - Programming for the movement animation in python
     - Implement the motion primitive clustering and classification algorithms
 	![Motion Primitive](https://aliciachenw.github.io/images/project-motion-primitive.png)
@@ -55,9 +62,11 @@ Research Projects
 	Locomotion mode recognition can contribute to precise control of active lower-limb prostheses in different environments. We propose a novel locomotion mode recognition method based on convolutional neural network and strain gauge signals. The strain gauge only provides one-dimensional signals and the convolutional neural network takes the raw noisy signals as inputs.
 	
     My contributions:
+    
     - Collaborate with lab partner to collect data
     - Develope neural network models in Tensorflow and analyze the algorithm performance
     - Write the paper
+    
     The results show that the strain gauge contains information of locomotion modes, and the convolutional neural network has the capacity of extracting features from raw signals.
 
 Selected Academic Projects
