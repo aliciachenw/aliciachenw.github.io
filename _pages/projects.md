@@ -68,6 +68,7 @@ Research Projects
     - Write the paper
     
     The results show that the strain gauge contains information of locomotion modes, and the convolutional neural network has the capacity of extracting features from raw signals.
+    ![Locomotion Mode Recognition](https://aliciachenw.github.io/images/project-cnn-prothesis.png)
 
 Selected Academic Projects
 ======
