@@ -5,6 +5,8 @@ permalink: /projects/
 author_profile: true
 ---
 
+{% include base_path %}
+
 Research Projects
 ======
 * [Trauma Care In a Rusksack (TRACIR)](https://www.cmu.edu/news/stories/archives/2019/may/trauma-care-system.html)
