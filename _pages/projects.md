@@ -74,7 +74,7 @@ Selected Academic Projects
 * Ultrasound speckle noise denoising with edge preservation
     * 16-725 Medical Image Analysis, Spring 2020, Carnegie Mellon University
 
-    I implemented a classical [speckle reduction anisotropic diffusion (SRAD) filter](https://ieeexplore.ieee.org/abstract/document/1097762?casa_token=jbr0XBjReUoAAAAA:5VSU6ZPp58SCIlTv2tpWco_Ndtaow_l0-FWyvjgZ7Lzfip2TYSmHQ6EPOTHoSGJbWGYg7MxO)  in python, and improved the filter performance by adding histogram matching and edge preservation. I added histogram matching after several iterations to keep the contrast, and modifyed the original diffusion coefficient based on the result of Canny edge detector. I found that the new SRAD filter performs better in noise reduction and edge preservation, and have higher SSIM and Figure of Merit (FOM).
+    I implemented a classical [speckle reduction anisotropic diffusion (SRAD) filter](https://ieeexplore.ieee.org/abstract/document/1097762?casa_token=jbr0XBjReUoAAAAA:5VSU6ZPp58SCIlTv2tpWco_Ndtaow_l0-FWyvjgZ7Lzfip2TYSmHQ6EPOTHoSGJbWGYg7MxO)  in python, and improved the filter performance by adding histogram matching and edge preservation. I added histogram matching after several iterations to keep the contrast, and modified the original diffusion coefficient based on the result of Canny edge detector. I found that the new SRAD filter performs better in noise reduction and edge preservation, and have higher SSIM and Figure of Merit (FOM).
     ![SRAD](https://aliciachenw.github.io/images/project-SRAD.png)
 
 
