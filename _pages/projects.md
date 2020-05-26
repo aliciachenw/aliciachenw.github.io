@@ -12,7 +12,7 @@ Research Projects
 * [Trauma Care In a Rusksack (TRACIR)](https://www.cmu.edu/news/stories/archives/2019/may/trauma-care-system.html)
     * Oct 2019 - present, Robotics Institute, Carnegie Mellon University
 
-    I am currently working in TRACIR project aiming at developing an autonomous catheter insertion. My responsibility is developing insertion detection and needle tracking algorithms that could work under different visibility.
+    I am currently working in TRACIR project aiming at developing an autonomous catheter insertion. My responsibility is developing insertion detection and needle tracking algorithms that could work under different visibility, and speckle tracking. 
 
 * Sensor fusion algorithms for attitude measurement based on quaternions and kalman filter
     * Dec 2018 - Jul 2019, The Robotics Research Group, Peking University
