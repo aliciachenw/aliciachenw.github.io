@@ -9,11 +9,13 @@ redirect_from:
 
 {% include base_path %}
 
+[PDF](https://aliciachenw.github.io/files/CV.pdf) Update on Nov 11 2020.
+<!-- 
 Education
 ======
 * M.S. in Robotics, Carnegie Mellon University, 2021 (expected)
   * GPA: 4.17/4.33
-  * Selected Courses: Computer Vision, Medical Image Analysis, Mechanics of Manipulation
+  * Selected Courses: Computer Vision, Medical Image Analysis, Mechanics of Manipulation, SLAM, Deep Learning
 * B.S. in Theoretical and Applied Mechanics, Peking University, 2019
   * GPA: 3.78/4.00
   * Selected Courses:
@@ -22,15 +24,17 @@ Education
     * Programming and numerical methods: Data Structure and Algorithm, Numerical Analysis, Finite Element Methods, Computational Fluid Dynamics
     * Other engineering: Circuits and Electronics, Principles of Automatic Control, Fundamentals of Medical Imaging, Engineering CAD
 
-Work experiences
+Research Experience
 ======
 * Graduate Research Assistant (Oct 2019 - Present)
   * Biomedical Image Guidance Lab, Carnegie Mellon University
+    * Supervisor: Dr. John Galeotti
   * Research topics:
-    * Ultrasound-guided robot needle steering system
-    * Needle localization and tracking in different visibility
-    * Ultrasound-based tissue motion field generation
-  * Supervisor: Dr. John Galeotti
+    * Researching vision-based tracking for autonomous robotic needle insertion in collaboration with a research group and physicians.
+    * Developing a novel optical-flow based tissue motion segmentation algorithm for needle localization.
+    * Designing a needle tracking algorithm that fuses ultrasound-based needle detection algorithms and robotics kinematics to trackthe needle robustly under various visibility.
+    * Building a real-time bent needle C++/Python binding tracking algorithm.
+
 
 * Undergraduate Research Assistant (Sep 2017 - Jun 2019)
   * Robotics Research Group, Peking University
@@ -71,13 +75,13 @@ Skills
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul> -->
   
-Teaching
+<!-- Teaching
 ======
 * Extra class tutor (Sep 2018 - Jun 2019)
   * College of Engineering, Peking University
   * Introduction to Computation in Fall 2018 (about 20 freshmen) 
-  * Mathematics in Engineering in Spring 2019 (about 10 sophomores)
+  * Mathematics in Engineering in Spring 2019 (about 10 sophomores) -->
   
 <!-- Service and leadership
 ======
-* Currently signed in to 43 different slack teams -->
+* Currently signed in to 43 different slack teams --> -->

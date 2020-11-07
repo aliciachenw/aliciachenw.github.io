@@ -9,6 +9,12 @@ author_profile: true
 
 Research Projects
 ======
+* Control of lateral manipulation of needle steering
+    * Sep 2020 - present, Robotics Institute, Carnegie Mellon University
+
+    This project is for my master thesis at Carnegie Mellon Univeristy. The project is targeting at using lateral manipulation at the needle base to control the needle steering. 
+     <!-- The method is to first build a mechanical model for robot, needle and tissue. -->
+
 * [Trauma Care In a Rusksack (TRACIR)](https://www.cmu.edu/news/stories/archives/2019/may/trauma-care-system.html)
     * Oct 2019 - present, Robotics Institute, Carnegie Mellon University
 
