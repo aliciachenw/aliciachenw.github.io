@@ -9,9 +9,9 @@ redirect_from:
 
 {% include base_path %}
 
-[PDF](https://aliciachenw.github.io/files/CV.pdf) Update on Nov 11 2020.
-
-<!-- Education
+[PDF version](https://aliciachenw.github.io/files/CV.pdf)
+<!-- 
+Education
 ======
 * M.S. in Robotics, Carnegie Mellon University, 2021 (expected)
   * GPA: 4.17/4.33
@@ -69,19 +69,10 @@ Skills
 
 
   
-<!-- Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul> -->
-  
-<!-- Teaching
+Teaching
 ======
 * Extra class tutor (Sep 2018 - Jun 2019)
   * College of Engineering, Peking University
   * Introduction to Computation in Fall 2018 (about 20 freshmen) 
-  * Mathematics in Engineering in Spring 2019 (about 10 sophomores) -->
-  
-<!-- Service and leadership
-======
-* Currently signed in to 43 different slack teams --> -->
+  * Mathematics in Engineering in Spring 2019 (about 10 sophomores)
+   -->
