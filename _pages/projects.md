@@ -74,9 +74,13 @@ Research Projects
     
     The results show that the strain gauge contains information of locomotion modes, and the convolutional neural network has the capacity of extracting features from raw signals.
     ![Locomotion Mode Recognition](https://aliciachenw.github.io/images/project-cnn-prothesis.png)
-
+<!-- 
 Selected Academic Projects
 ======
+* Transfer learning for human detection in thermal images
+    * 11-685 Introduction to Deep Learning, Fall 2020, Carnegie Mellon University
+
+
 * Ultrasound speckle noise denoising with edge preservation
     * 16-725 Medical Image Analysis, Spring 2020, Carnegie Mellon University
 
@@ -101,4 +105,4 @@ Selected Academic Projects
     * Member: Wanwen Chen, Xiaoquan Gao, Xingsi Ren
 
     In this project, we constructed a mathematical model to measure country fragility, and also its correlation with climate changes. We designed new index named Country Fragility Index (CFI) to evaluate country fragility, considering economics, politics and security of countries. We then designed two regression models to explain CFI with climate changes, and our quadratic model (NLCI) with three variables had adjusted R-Square larger than 0.80 in most test cases. We then applied NLCI on Sudan and found the decline of arable land is the main reason of fragility in Sudan. The results are accord with former analytic researches. We then applied NLCI on China, and predicted CFI of China from now to 2100. We predict that CFI of China will continue to grow, and after 2042, the growth will be accompanied by severe fluctuation. 
-    <!-- ![ICM](https://aliciachenw.github.io/images/project-ICM-2018.png) -->
+    ![ICM](https://aliciachenw.github.io/images/project-ICM-2018.png) -->
