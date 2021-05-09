@@ -38,8 +38,8 @@ author_profile: true
 
     doi: 10.1109/TMRB.2020.2993360. [link](https://ieeexplore.ieee.org/document/9090211)
 
-1. Y. Feng*, W. Chen*, and Q. Wang, "A strain gauge based locomotion mode recognition method using convolutional neural network," Advanced Robotics, vol. 33, no. 5, pp. 254-263, Jan. 2019.
+1. Y. Feng, W. Chen, and Q. Wang, "A strain gauge based locomotion mode recognition method using convolutional neural network," Advanced Robotics, vol. 33, no. 5, pp. 254-263, Jan. 2019.
 
     doi:10.1080/01691864.2018.1563500. [link](https://www.tandfonline.com/doi/abs/10.1080/01691864.2018.1563500)
 
-    *The authors have equal contribution.
+    *The authors Y. Feng and W. Chen have equal contribution.
