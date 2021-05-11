@@ -7,9 +7,7 @@ author_profile: true
 
 {% include base_path %}
 
-**Research**
 
-======
 * Control of Lateral Manipulation of Needle Steering
     * Sep 2020 - present, Robotics Institute, Carnegie Mellon University
 
@@ -27,6 +25,7 @@ author_profile: true
     This project is for my undergraduate thesis at Peking University. It aims at using Kalman Filter algorithm to fuse data from a nine-axis IMU (a three-axis acclerometer, a three-axis gyrometer and a three-axis magnetometer) to calculate its current attitude. 
 
     I analyzed the performance of three sensors using Allan Variance Analysis, implemented the performance of Extended Kalman Filter and Unscented Kalman Filter, and a simple but effective Adaptive Kalman Filter. After testing three algorithms in simulation and experiments in three locomotion modes, I found that our Adaptive Kalman Filter performs better than Extended Kalman Filter, with lower RMSE and also the ability to adapt poor initial estimation.
+    
     ![Adaptive Kalman Filter](https://aliciachenw.github.io/images/project-akf.png)
 
 * Analysis of Human Swimming Locomotion
