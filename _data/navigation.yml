@@ -24,8 +24,8 @@ main:
   # - title: "Academic Projects"
   #   url: /projects/
 
-  # - title: "Miscellaneous"
-  #   url: /miscellaneous/
+  - title: "Miscellaneous"
+    url: /miscellaneous/
 
   # - title: "Blog Posts"
   #   url: /year-archive/
