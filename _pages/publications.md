@@ -19,12 +19,6 @@ You can also find my articles on [Google Scholar](https://scholar.google.com/cit
 
 **Conferences**
 
-5. A. L. Y. Hung, Z. Sun, **W. Chen**, J. Galeotti, Hierarchical Probabilistic Ultrasound Image Inpainting via Variational Inference, Accepted by *MICCAI 2021 workshop on Deep Generative Models for Medical Image Computing and Computer Assisted Intervention (DGM4MICCAI)*.
-
-
-4. G. R. Gare\*, **W. Chen\***, A. L. Y. Hung, E. Chen, H. V. Tran, T. Fox, P. Lowery, K. Zamora, B. P. deBoisblanc, R. L. Rodriguez, J. Galeotti, "The Role of Pleura and Adipose in Lung Ultrasound AI, ". Accepted by *MICCAI 2021 workshop on Lessons Learned from the development and application of medical imaging-based AI technologies for combating COVID-19*.
-
-
 3. **W. Chen**, K. Mehta, B. D. Bhanushali, J. Galeotti, Ultrasound-based Tracking of Partially In-plane, Curved Needles. *2021 IEEE 18th International Symposium on Biomedical Imaging (ISBI)*, Nice, 2021, pp. 939-943. [link](https://ieeexplore.ieee.org/abstract/document/9433804)
 
     We propose a novel curve needle tracking method which utilizes a novel weighted RANSAC and probabilistic Hough transform with kinematics reference to track a curved and partially visible needle in ultrasound images. 
@@ -48,3 +42,11 @@ You can also find my articles on [Google Scholar](https://scholar.google.com/cit
 (\* means equal contribution)
 
     We propose a novel locomotion mode recognition method based on convolutional neural network and strain gauge signals. The overall three-class locomotion mode recognition accuracy shows that the strain gauge contains information of locomotion modes, and the convolutional neural network has the capacity of extracting features from raw signals.
+
+
+**Workshops**
+
+2. A. L. Y. Hung, Z. Sun, **W. Chen**, J. Galeotti, Hierarchical Probabilistic Ultrasound Image Inpainting via Variational Inference, Accepted by *MICCAI 2021 workshop on Deep Generative Models for Medical Image Computing and Computer Assisted Intervention (DGM4MICCAI)*.
+
+
+1. G. R. Gare\*, **W. Chen\***, A. L. Y. Hung, E. Chen, H. V. Tran, T. Fox, P. Lowery, K. Zamora, B. P. deBoisblanc, R. L. Rodriguez, J. Galeotti, "The Role of Pleura and Adipose in Lung Ultrasound AI, ". Accepted by *MICCAI 2021 workshop on Lessons Learned from the development and application of medical imaging-based AI technologies for combating COVID-19*.
