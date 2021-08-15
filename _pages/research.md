@@ -12,7 +12,7 @@ author_profile: true
 * **Modeling and Motion Planning for Lateral Manipulation of Needle Steering**, *Sep 2020 - Aug 2021*
     *  Robotics Institute, Carnegie Mellon University
 
-    This project is for my master thesis at Carnegie Mellon Univeristy. The project is targeting at using lateral manipulation at the needle base to control the needle steering. 
+    This project is a part of my master thesis at Carnegie Mellon Univeristy. The project is targeting at using lateral manipulation at the needle base to control the needle steering. 
 
 * **[Trauma Care In a Rusksack (TRACIR)](https://www.cmu.edu/news/stories/archives/2019/may/trauma-care-system.html)**, *Oct 2019 - Aug 2021*
     * Robotics Institute, Carnegie Mellon University

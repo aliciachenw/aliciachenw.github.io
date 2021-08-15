@@ -12,8 +12,7 @@ author_profile: true
 
 **About Me**
 
-* My name means "clouds with beautiful pattern" in Chinese.
+* My name means "clouds with beautiful patterns" in Chinese.
 * My native languages are Cantonese and Mandarin. I enjoy writing in Simplified Chinese, but I can't write in Cantonese.
-<!-- * How to pronouce my name: /wan21˦/ /uən35/ /jyn35/ /mɐn21/  -->
 * I enjoy music and musicals. When I am working towards a deadline I like listening to *[Hamilton](https://en.wikipedia.org/wiki/Hamilton_(musical))*. But *[Mozart!](https://en.wikipedia.org/wiki/Mozart!)* is the one I enjoy most. *[Come from Away](https://en.wikipedia.org/wiki/Come_from_Away)* is the most inspiring musical I listened to in 2020. My recent favorite singer is [milet(ミレイ)](https://en.wikipedia.org/wiki/Milet_(singer)). 
 * I like jogging, reading, and writing letters or postcards to my pen friends in my spare time. I enjoy detective stories and crime stories most!

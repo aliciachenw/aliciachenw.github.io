@@ -21,8 +21,8 @@ main:
   - title: "Research"
     url: /research/
 
-  # - title: "Academic Projects"
-  #   url: /projects/
+  - title: "Course Projects"
+    url: /projects/
 
   - title: "Miscellaneous"
     url: /miscellaneous/

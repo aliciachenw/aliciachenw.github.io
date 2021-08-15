@@ -15,7 +15,7 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %} -->
 
-You can also find my articles on [Google Scholar](https://scholar.google.com/citations?user=jS9csA4AAAAJ&hl=en).
+You can also find my articles on [Google Scholar](https://scholar.google.com/citations?user=jS9csA4AAAAJ&hl=en). \* means equal contribution.
 
 **Conferences**
 
@@ -39,14 +39,19 @@ You can also find my articles on [Google Scholar](https://scholar.google.com/cit
     We designed an underwater lower-extremity soft exoskeleton called Powered Swimsuit to assist the wearer in breaststroke with fins. The assistive force was applied to the bottom of the fins via soft cables. During the propelling period of the stroke cycle, the cables pulled the ankle joints to provide assistance to plantar flexion. 
 
 1. Y. Feng\*, **W. Chen\***, and Q. Wang, A strain gauge based locomotion mode recognition method using convolutional neural network. *Advanced Robotics*, vol. 33, no. 5, pp. 254-263, Jan. 2019. [link](https://www.tandfonline.com/doi/abs/10.1080/01691864.2018.1563500)
-(\* means equal contribution)
+
 
     We propose a novel locomotion mode recognition method based on convolutional neural network and strain gauge signals. The overall three-class locomotion mode recognition accuracy shows that the strain gauge contains information of locomotion modes, and the convolutional neural network has the capacity of extracting features from raw signals.
 
 
 **Workshops**
 
-2. A. L. Y. Hung, Z. Sun, **W. Chen**, J. Galeotti, Hierarchical Probabilistic Ultrasound Image Inpainting via Variational Inference, Accepted by *MICCAI 2021 workshop on Deep Generative Models for Medical Image Computing and Computer Assisted Intervention (DGM4MICCAI)*.
+2. A. L. Y. Hung, Z. Sun, **W. Chen**, J. Galeotti, Hierarchical Probabilistic Ultrasound Image Inpainting via Variational Inference. Accepted by *MICCAI 2021 workshop on Deep Generative Models for Medical Image Computing and Computer Assisted Intervention (DGM4MICCAI)*.
 
 
-1. G. R. Gare\*, **W. Chen\***, A. L. Y. Hung, E. Chen, H. V. Tran, T. Fox, P. Lowery, K. Zamora, B. P. deBoisblanc, R. L. Rodriguez, J. Galeotti, "The Role of Pleura and Adipose in Lung Ultrasound AI, ". Accepted by *MICCAI 2021 workshop on Lessons Learned from the development and application of medical imaging-based AI technologies for combating COVID-19*.
+1. G. R. Gare\*, **W. Chen\***, A. L. Y. Hung, E. Chen, H. V. Tran, T. Fox, P. Lowery, K. Zamora, B. P. deBoisblanc, R. L. Rodriguez, J. Galeotti, The Role of Pleura and Adipose in Lung Ultrasound AI. Accepted by *MICCAI 2021 workshop on Lessons Learned from the development and application of medical imaging-based AI technologies for combating COVID-19*.
+
+
+**Others**
+
+W. Chen, Ultrasound-based Needle Tracking and Lateral Manipulation Planning for Common Needle Steering. *Carnegie Mellon University*, 2021.
