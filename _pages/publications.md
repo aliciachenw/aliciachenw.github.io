@@ -52,6 +52,6 @@ You can also find my articles on [Google Scholar](https://scholar.google.com/cit
 1. G. R. Gare\*, **W. Chen\***, A. L. Y. Hung, E. Chen, H. V. Tran, T. Fox, P. Lowery, K. Zamora, B. P. deBoisblanc, R. L. Rodriguez, J. Galeotti, The Role of Pleura and Adipose in Lung Ultrasound AI. Accepted by *MICCAI 2021 workshop on Lessons Learned from the development and application of medical imaging-based AI technologies for combating COVID-19*.
 
 
-**Others**
+**Master Thesis**
 
-W. Chen, Ultrasound-based Needle Tracking and Lateral Manipulation Planning for Common Needle Steering. *Carnegie Mellon University*, 2021.
+**W. Chen**, Ultrasound-based Needle Tracking and Lateral Manipulation Planning for Common Needle Steering. *Carnegie Mellon University*, 2021. [link](https://www.ri.cmu.edu/publications/ultrasound-based-needle-tracking-and-lateral-manipulation-planning-for-common-needle-steering/)

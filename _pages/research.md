@@ -9,20 +9,20 @@ author_profile: true
 
 **Current**
 
+
+**Past Projects**
+
 * **Modeling and Motion Planning for Lateral Manipulation of Needle Steering**, *Sep 2020 - Aug 2021*
     *  Robotics Institute, Carnegie Mellon University
+    *  [Thesis](https://www.ri.cmu.edu/publications/ultrasound-based-needle-tracking-and-lateral-manipulation-planning-for-common-needle-steering/)
 
-    This project is a part of my master thesis at Carnegie Mellon Univeristy. The project is targeting at using lateral manipulation at the needle base to control the needle steering. 
+    This project is a part of my master thesis at Carnegie Mellon Univeristy. The project is targeting at using lateral manipulation at the needle base to control the needle steering. I improved a previous mechanical model to model the needle-tissue interaction and bending and also developed two different replanning algorithms without the need for humans to select the first insertion point.
 
 * **[Trauma Care In a Rusksack (TRACIR)](https://www.cmu.edu/news/stories/archives/2019/may/trauma-care-system.html)**, *Oct 2019 - Aug 2021*
     * Robotics Institute, Carnegie Mellon University
-    * [Publication](https://ieeexplore.ieee.org/abstract/document/9433804)
+    * [Publication](https://ieeexplore.ieee.org/abstract/document/9433804) [Thesis](https://www.ri.cmu.edu/publications/ultrasound-based-needle-tracking-and-lateral-manipulation-planning-for-common-needle-steering/)
 
-    TRACIR is aiming at developing autonomous catheter insertion. My responsibility is developing insertion detection and needle tracking algorithms that could work under different visibility. I develop a tracking fusion algorithm that combine the estimation from robotic kinematics and ultrasound-based tracking, and also introduce a new needle detection algorithm which utilizes the micro-motion in the tissue to estimate the location of the needle.
-
-
-
-**Past Projects**
+    TRACIR is aiming at developing autonomous catheter insertion. My research focused on ultrasound-based needle tracking.  I introduced new algorithms to track a needle robustly under challenging situations such as that the needle is bending or it is partially visible. I first developed a novel bending needle tracking algorithm that utilizes the kinematic consistency in the segmentation to improve the tracking accuracy. I also designed a new information fusion-based tracking algorithm, which can utilize both robot forward kinematics and ultrasound-based segmentation to track a needle robustly. The algorithm can recalibrate the transformation parameters between the robot forward kinematics and the ultrasound image coordinates to improve the insertion accuracy. I also developed a new needle detection algorithm which utilizes the micro-motion in the tissue to estimate the location of the needle.
 
 * **Sensor Fusion for Attitude Measurement Based on Quaternions and Kalman Filter**, *Dec 2018 - Jul 2019*
     * The Robotics Research Group, Peking University

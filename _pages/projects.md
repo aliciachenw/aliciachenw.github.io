@@ -9,8 +9,6 @@ author_profile: true
 
 **Selected Academic Projects**
 
-======
-
 * Transformer for needle tracking
     * 16-824 Visual Learning and Recognition, Spring 2021, Carnegie Mellon University
     * Other members: Alex Hung, Muyu Ouyang
