@@ -82,8 +82,8 @@ analytics:
 author:
   name             : "Wanwen Chen"
   avatar           : "profile.png"
-  bio              : "Master student at Robotics Institute, Carnegie Mellon University"
-  location         : "Pittsburgh, PA"
+  bio              : "PhD student at the University of British Columbia"
+  location         : "Vancouver, BC"
   # employer         :
   # pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=jS9csA4AAAAJ&hl=en"
@@ -263,7 +263,7 @@ sass:
 permalink: /:categories/:title/
 # paginate: 5 # amount of posts to show
 # paginate_path: /page:num/
-timezone: America/New_York # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: America/Vancouver # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Plugins

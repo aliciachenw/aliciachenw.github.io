@@ -1,13 +1,13 @@
 ---
 layout: single
-title: "Academic Projects"
+title: "Selected Academic Projects"
 permalink: /projects/
 author_profile: true
 ---
 
 {% include base_path %}
 
-**Selected Academic Projects**
+<!-- **Selected Academic Projects** -->
 
 * Transformer for needle tracking
     * 16-824 Visual Learning and Recognition, Spring 2021, Carnegie Mellon University
