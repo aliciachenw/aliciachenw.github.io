@@ -54,4 +54,4 @@ You can also find my articles on [Google Scholar](https://scholar.google.com/cit
 
 **Master Thesis**
 
-    **W. Chen**, Ultrasound-based Needle Tracking and Lateral Manipulation Planning for Common Needle Steering. *Carnegie Mellon University*, 2021. [link](https://www.ri.cmu.edu/publications/ultrasound-based-needle-tracking-and-lateral-manipulation-planning-for-common-needle-steering/)
+1. **W. Chen**, Ultrasound-based Needle Tracking and Lateral Manipulation Planning for Common Needle Steering. *Carnegie Mellon University*, 2021. [link](https://www.ri.cmu.edu/publications/ultrasound-based-needle-tracking-and-lateral-manipulation-planning-for-common-needle-steering/)

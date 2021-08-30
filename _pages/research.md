@@ -14,6 +14,7 @@ author_profile: true
 
 * **AI in Lung Ultrasound COVID-19 Diagnosis and Segmentation**, *Nov 2020 - Aug 2021*
     *  Robotics Institute, Carnegie Mellon University
+    
     This project is aiming at developing AI tools for ultrasound image analysis. I worked on developing lung region segmentation algorithms, and it was further used to evaluate how different regions in lung ultrasound images affect AI accuracy in COVID-19 severity classification. I also worked on using optical flow to improve the semantic segmentation accuracy of lung ultrasound.
 
 * **Modeling and Motion Planning for Lateral Manipulation of Needle Steering**, *Sep 2020 - Aug 2021*

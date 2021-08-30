@@ -7,12 +7,14 @@ author_profile: true
 
 **Links**
 
-* [Basic Ultrasound](http://folk.ntnu.no/stoylen/strainrate/Basic_ultrasound) A good online tutorial on ultrasound imaging.
+* [Basic Ultrasound](http://folk.ntnu.no/stoylen/strainrate/Basic_ultrasound) A helpful online tutorial on ultrasound imaging.
+* [Academic Phrasebank](https://www.phrasebank.manchester.ac.uk/) A website that contains many academic writing phrases and examples from the University of Manchester.
 * [Learn Hands-only CPR](https://www.youtube.com/watch?v=qCAFx-ltco0) Don't have CPR certification? Hands-only CPR also saves life.
 
-**About Me**
+**Fun Facts About Me**
 
 * My name means "clouds with beautiful patterns" in Chinese.
-* My native languages are Cantonese and Mandarin. I enjoy writing in Simplified Chinese, but I can't write in Cantonese.
-* I enjoy music and musicals. When I am working towards a deadline I like listening to *[Hamilton](https://en.wikipedia.org/wiki/Hamilton_(musical))*. But *[Mozart!](https://en.wikipedia.org/wiki/Mozart!)* is the one I enjoy most. *[Come from Away](https://en.wikipedia.org/wiki/Come_from_Away)* is the most inspiring musical I listened to in 2020. My recent favorite singer is [milet(ミレイ)](https://en.wikipedia.org/wiki/Milet_(singer)). 
-* I like jogging, reading, and writing letters or postcards to my pen friends in my spare time. I enjoy detective stories and crime stories most!
+* I can speak Cantonese and Mandarin.
+* I enjoy musicals. When I am working towards a deadline I like listening to *[Hamilton](https://en.wikipedia.org/wiki/Hamilton_(musical))*. But *[Mozart!](https://en.wikipedia.org/wiki/Mozart!)* is the one I enjoy most. *[Come from Away](https://en.wikipedia.org/wiki/Come_from_Away)* is the most inspiring musical I listened to in 2020. 
+* I like jogging, reading, and writing letters and postcards to my pen friends in my spare time. I enjoy detective stories and crime stories most. My comfort books are the original works of Sherlock Holmes.
+* I collect well-designed postcards.
