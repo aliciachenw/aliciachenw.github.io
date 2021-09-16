@@ -9,22 +9,27 @@ author_profile: true
 
 **Current**
 
+* **Ultrasound Guidance for Transoral Robotic Surgery**, *Sep 2021 - present*
+    *  Robotics and Control Laboratory, The University of British Columbia
+    
+    Head and neck-related cancers account for a large percentage of all cancers globally, and transoral robotic surgery (TORS) shows the potential to help preserve the function of the patients after the treatment. However, TORS is challenging because it requires surgeons to have profound knowledge of anatomy. We hypothesize that ultrasound guidance can improve treatment outcomes in head and neck cancers, and we aim at developing novel ultrasound technologies for robotic-assisted surgery. 
+
 
 **Past Projects**
 
 * **AI in Lung Ultrasound COVID-19 Diagnosis and Segmentation**, *Nov 2020 - Aug 2021*
-    *  Robotics Institute, Carnegie Mellon University
+    *  Biomedical Image Guidance Lab, Carnegie Mellon University
     
     This project is aiming at developing AI tools for ultrasound image analysis. I worked on developing lung region segmentation algorithms, and it was further used to evaluate how different regions in lung ultrasound images affect AI accuracy in COVID-19 severity classification. I also worked on using optical flow to improve the semantic segmentation accuracy of lung ultrasound.
 
 * **Modeling and Motion Planning for Lateral Manipulation of Needle Steering**, *Sep 2020 - Aug 2021*
-    *  Robotics Institute, Carnegie Mellon University
+    *  Biomedical Image Guidance Lab, Carnegie Mellon University
     *  [Thesis](https://www.ri.cmu.edu/publications/ultrasound-based-needle-tracking-and-lateral-manipulation-planning-for-common-needle-steering/)
 
     This project is a part of my master thesis at Carnegie Mellon Univeristy. The project is targeting at using lateral manipulation at the needle base to control the needle steering. I improved a previous mechanical model to model the needle-tissue interaction and bending and also developed two different replanning algorithms without the need for humans to select the first insertion point.
 
 * **[Trauma Care In a Rusksack (TRACIR)](https://www.cmu.edu/news/stories/archives/2019/may/trauma-care-system.html)**, *Oct 2019 - Aug 2021*
-    * Robotics Institute, Carnegie Mellon University
+    * Biomedical Image Guidance Lab, Carnegie Mellon University
     * [Publication](https://ieeexplore.ieee.org/abstract/document/9433804) [Thesis](https://www.ri.cmu.edu/publications/ultrasound-based-needle-tracking-and-lateral-manipulation-planning-for-common-needle-steering/)
 
     TRACIR is aiming at developing autonomous catheter insertion. My research focused on ultrasound-based needle tracking.  I introduced new algorithms to track a needle robustly under challenging situations such as that the needle is bending or it is partially visible. I first developed a novel bending needle tracking algorithm that utilizes the kinematic consistency in the segmentation to improve the tracking accuracy. I also designed a new information fusion-based tracking algorithm, which can utilize both robot forward kinematics and ultrasound-based segmentation to track a needle robustly. The algorithm can recalibrate the transformation parameters between the robot forward kinematics and the ultrasound image coordinates to improve the insertion accuracy. I also developed a new needle detection algorithm which utilizes the micro-motion in the tissue to estimate the location of the needle.

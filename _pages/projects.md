@@ -1,13 +1,15 @@
 ---
 layout: single
-title: "Selected Academic Projects"
+title: "Selected Projects"
 permalink: /projects/
 author_profile: true
 ---
 
 {% include base_path %}
 
-<!-- **Selected Academic Projects** -->
+<!-- * Smart UI for AR display in Operation Room
+    * MARSS
+    * Other members:  -->
 
 * Transformer for needle tracking
     * 16-824 Visual Learning and Recognition, Spring 2021, Carnegie Mellon University
