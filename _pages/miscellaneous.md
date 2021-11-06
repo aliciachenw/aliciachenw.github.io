@@ -18,3 +18,11 @@ author_profile: true
 * I enjoy musicals. When I am working towards a deadline I like listening to *[Hamilton](https://en.wikipedia.org/wiki/Hamilton_(musical))*. But *[Mozart!](https://en.wikipedia.org/wiki/Mozart!)* is the one I enjoy most. *[Come from Away](https://en.wikipedia.org/wiki/Come_from_Away)* is the most inspiring musical I listened to in 2020. 
 * I like jogging, reading, and writing letters and postcards to my pen friends in my spare time. I enjoy detective stories and crime stories most. My comfort books are the original works of Sherlock Holmes.
 * I collect well-designed postcards.
+
+**Recent Reading list**
+
+* *The Glory and the Dream: A Narrative History of America, 1932–1972*, by William Manchester.
+* *The Noonday Demon: An Atlas of Depression*, by Andrew Solomon.
+* *NeuroLogic: The Brain's Hidden Rationale Behind Our Irrational Behavior*, by Eliezer Sternberg.
+* *Fragile Lives: A Heart Surgeon’s Stories of Life and Death on the Operating Table*, by Stephen Westaby.
+* *Farewell, My Lovely*, by Raymond Chandler.

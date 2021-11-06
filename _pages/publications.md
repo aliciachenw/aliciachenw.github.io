@@ -46,8 +46,7 @@ You can also find my articles on [Google Scholar](https://scholar.google.com/cit
 
 **Workshops**
 
-2. A. L. Y. Hung, Z. Sun, **W. Chen**, J. Galeotti, Hierarchical Probabilistic Ultrasound Image Inpainting via Variational Inference. Accepted by *MICCAI 2021 workshop on Deep Generative Models for Medical Image Computing and Computer Assisted Intervention (DGM4MICCAI)*.
-
+2. A. L. Y. Hung, Z. Sun, **W. Chen**, J. Galeotti, Hierarchical Probabilistic Ultrasound Image Inpainting via Variational Inference. *Deep Generative Models, and Data Augmentation, Labelling, and Imperfections (DGM4MICCAI)*, 2021, pp. 83-92. [link](https://link.springer.com/chapter/10.1007/978-3-030-88210-5_7)
 
 1. G. R. Gare\*, **W. Chen\***, A. L. Y. Hung, E. Chen, H. V. Tran, T. Fox, P. Lowery, K. Zamora, B. P. deBoisblanc, R. L. Rodriguez, J. Galeotti, The Role of Pleura and Adipose in Lung Ultrasound AI. Accepted by *MICCAI 2021 workshop on Lessons Learned from the development and application of medical imaging-based AI technologies for combating COVID-19*.
 
