@@ -22,6 +22,7 @@ author_profile: true
 
 **Recent Reading List**
 
+* *Moonflower Murders*, by Anthony Horowitz.
 * *The Glory and the Dream: A Narrative History of America, 1932–1972*, by William Manchester.
 * *The Noonday Demon: An Atlas of Depression*, by Andrew Solomon.
 * *NeuroLogic: The Brain's Hidden Rationale Behind Our Irrational Behavior*, by Eliezer Sternberg.
