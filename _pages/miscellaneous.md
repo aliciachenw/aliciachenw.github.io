@@ -10,3 +10,4 @@ author_profile: true
 * [Basic Ultrasound](http://folk.ntnu.no/stoylen/strainrate/Basic_ultrasound) A helpful online tutorial on ultrasound imaging.
 * [Academic Phrasebank](https://www.phrasebank.manchester.ac.uk/) A website that contains many academic writing phrases and examples from the University of Manchester.
 * [Learn Hands-only CPR](https://www.youtube.com/watch?v=qCAFx-ltco0) Don't have CPR certification? Hands-only CPR also saves life.
+* [Careers in Science](https://www.science.org/careers/articles) A website where I learn what other people think about their life and career.
