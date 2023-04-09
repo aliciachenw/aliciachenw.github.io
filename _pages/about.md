@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am Wanwen Chen (陈婉雯), a  Ph.D. student in [Electrical and Computer Engineering](https://ece.ubc.ca/) at the University of British Columbia, and my advisor is Dr. [Tim Salcudean](https://ece.ubc.ca/tim-salcudean/). Currently, I am investigating the potential of ultrasound in transoral robotic surgery, working closely with the Vancouver General Hospital. I am a recipient of the Four Years Doctoral Fellowship at the University of British Columbia.
+I am Wanwen Chen (陈婉雯), a  Ph.D. student in [Electrical and Computer Engineering](https://ece.ubc.ca/) at the University of British Columbia, and my advisor is Dr. [Tim Salcudean](https://ece.ubc.ca/tim-salcudean/). Currently, I am investigating the potential of ultrasound in transoral robotic surgery, working closely with the Vancouver General Hospital. I am a recipient of the Four Years Doctoral Fellowship at the University of British Columbia. I will join the Intuitive Surgical in Summer 2023 for internship.
 
 Overall, my research lies at the intersection of medical images and robotics. My research interests include augmented reality for surgery, ultrasound-based diagnosis, and medical image analysis. I believe computer-aided image analysis, visualization, and intervention can improve patient outcomes and ease the clinicians' load, and I hope my research has clinical values and can be transferred to the real world.
 

@@ -11,6 +11,8 @@ author_profile: true
 
 * **Ultrasound Guidance for Transoral Robotic Surgery**, *Sep 2021 - present*
     *  Robotics and Control Laboratory, The University of British Columbia
+    * [System design](https://arxiv.org/abs/2211.16544)
+    * [MRI-US registration](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/12466/1246625/Feasibility-of-MRI-US-registration-in-oropharynx-for-transoral-robotic/10.1117/12.2655032.short)
     
     Head and neck-related cancers account for a large percentage of all cancers globally, and transoral robotic surgery (TORS) shows the potential to help preserve the function of the patients after the treatment. However, TORS is challenging because it requires surgeons to have profound knowledge of anatomy. We hypothesize that ultrasound guidance can improve treatment outcomes in head and neck cancers, and we aim at developing novel ultrasound technologies for robotic-assisted surgery. 
 

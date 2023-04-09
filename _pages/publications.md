@@ -19,6 +19,16 @@ You can also find my articles on [Google Scholar](https://scholar.google.com/cit
 
 **Conferences**
 
+5. **W. Chen**, M. Kalia, Q. Zeng, E.H. Pang, R. Bagherinasab, T.D. Milner, F. Sabiq, E. Prisman, S.E. Salcudean, Towards Transcervical Ultrasound Image Guidance for Transoral Robotic Surgery. *Accepted by The 14th International Conference on Information Processing in Computer-Assisted Interventions*. arXiv:2211.16544. [link](https://arxiv.org/abs/2211.16544)
+
+    Trans-oral robotic surgery (TORS) using the da Vinci surgical robot is a new minimally-invasive surgery method to treat oropharyngeal tumors, but it is a challenging operation. Augmented reality (AR) based on intra-operative ultrasound (US) has the potential to enhance the visualization of the anatomy and cancerous tumors to provide additional tools for decision-making in surgery. We propose and carry out preliminary evaluations of a US-guided AR system for TORS, with the transducer placed on the neck for a transcervical view. Firstly, we perform a novel MRI-transcervical 3D US registration study. Secondly, we develop a US-robot calibration method with an optical tracker and an AR system to display the anatomy mesh model in the real-time endoscope images inside the surgeon console. We demonstrate the first proof-of-concept transcervical US-guided AR system for TORS and the feasibility of trans-cervical 3D US-MRI registration. Our results show that trans-cervical 3D US is a promising technique for TORS image guidance.
+
+
+4. **W. Chen**, Q. Zeng, T.D. Milner, R. Bagherinasab, F. Sabiq, E. Prisman, E.H. Pang, S.E. Salcudean, Feasibility of MRI-US registration in oropharynx for transoral robotic surgery. *SPIE Medical Imaging 2023: Image-Guided Procedures, Robotic Interventions, and Modeling*, San Diego, 2023, Vol. 12466, pp. 516-522. [link](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/12466/1246625/Feasibility-of-MRI-US-registration-in-oropharynx-for-transoral-robotic/10.1117/12.2655032.short)
+
+    
+    We assess the feasibility of using transcervical 3D US with TORS: we propose to place the US probe on the patient’s neck to evaluate oropharyngeal anatomy intra-operatively. We also perform the first feasibility study of image registration between transcervical 3D US and Magnetic Resonance Imaging (MRI) for the oropharynx, showing that 3D transcervical US has the clinical potential to enable intraoperative oropharynx imaging and interventional MR guidance during TORS.
+
 3. **W. Chen**, K. Mehta, B. D. Bhanushali, J. Galeotti, Ultrasound-based Tracking of Partially In-plane, Curved Needles. *2021 IEEE 18th International Symposium on Biomedical Imaging (ISBI)*, Nice, 2021, pp. 939-943. [link](https://ieeexplore.ieee.org/abstract/document/9433804)
 
     We propose a novel curve needle tracking method which utilizes a novel weighted RANSAC and probabilistic Hough transform with kinematics reference to track a curved and partially visible needle in ultrasound images. 
