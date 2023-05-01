@@ -19,10 +19,6 @@ You can also find my articles on [Google Scholar](https://scholar.google.com/cit
 
 **Conferences**
 
-6. **W. Chen**, M. Kalia, Q. Zeng, E.H. Pang, R. Bagherinasab, T.D. Milner, F. Sabiq, E. Prisman, S.E. Salcudean, Towards Transcervical Ultrasound Image Guidance for Transoral Robotic Surgery. *Accepted by The 14th International Conference on Information Processing in Computer-Assisted Interventions*. arXiv:2211.16544. [link](https://arxiv.org/abs/2211.16544)
-
-    We propose and carry out preliminary evaluations of a US-guided AR system for TORS, with the transducer placed on the neck for a transcervical view. Firstly, we perform a novel MRI-transcervical 3D US registration study. Secondly, we develop a US-robot calibration method with an optical tracker and an AR system to display the anatomy mesh model in the real-time endoscope images inside the surgeon console. We demonstrate the first proof-of-concept transcervical US-guided AR system for TORS and the feasibility of trans-cervical 3D US-MRI registration. Our results show that trans-cervical 3D US is a promising technique for TORS image guidance.
-
 5. R. Bazargani, **W. Chen**, S. Sadeghian, M. Asadi, J. Boschman, A. Darbandsari, A. Bashashati, S. Salcudean, A novel H and E color augmentation for domain invariance classification of unannotated histopathology prostate cancer images. *SPIE Medical Imaging 2023: Digital and Computational Pathology*, San Deigo, 2023, Vol. 12471, pp. 224-229. [link](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/12471/124710X/A-novel-H-and-E-color-augmentation-for-domain-invariance/10.1117/12.2654040.short)
 
     We develop a new color augmnetation algorithm based on the color space statistics to expand the color space of the source dataset and achieve a better domain generalization on new unlabeled dataset. 
@@ -46,6 +42,10 @@ You can also find my articles on [Google Scholar](https://scholar.google.com/cit
     We analyze the computing performance of an on-board locomotion mode recognition system which was designed for robotic transtibial prosthesis. We implemented FPGA on-board support vector machine, back-propagation neural network, quadratic discriminant analysis and linear discriminant analysis, and the experiments demonstrated that the proposed system can provide satisfactory acceleration effects on the four applied algorithms.
 
 **Journals**
+
+3. **W. Chen**, M. Kalia, Q. Zeng, E.H. Pang, R. Bagherinasab, T.D. Milner, F. Sabiq, E. Prisman, S.E. Salcudean, Towards Transcervical Ultrasound Image Guidance for Transoral Robotic Surgery. *International Journal of Computer Assisted Radiology and Surgery*, 2023. [IJCARS](https://link.springer.com/article/10.1007/s11548-023-02898-y)[preprint](https://arxiv.org/abs/2211.16544)
+
+    We propose and carry out preliminary evaluations of a US-guided AR system for TORS, with the transducer placed on the neck for a transcervical view. Firstly, we perform a novel MRI-transcervical 3D US registration study. Secondly, we develop a US-robot calibration method with an optical tracker and an AR system to display the anatomy mesh model in the real-time endoscope images inside the surgeon console. We demonstrate the first proof-of-concept transcervical US-guided AR system for TORS and the feasibility of trans-cervical 3D US-MRI registration. Our results show that trans-cervical 3D US is a promising technique for TORS image guidance.
 
 2. Q. Wang et al., An Underwater Lower-Extremity Soft Exoskeleton for Breaststroke Assistance. *IEEE Transactions on Medical Robotics and Bionics*, vol. 2, no. 3, pp. 447-462, Aug. 2020. [link](https://ieeexplore.ieee.org/document/9090211)
 
