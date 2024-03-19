@@ -17,6 +17,12 @@ author_profile: true
 
 You can also find my articles on [Google Scholar](https://scholar.google.com/citations?user=jS9csA4AAAAJ&hl=en). \* means equal contribution.
 
+
+**Preprints**
+1. **W. Chen**, A. Schmidt, E. Prisman, S. Salcudean, PIPsUS: Self-Supervised Dense Point Tracking in Ultrasound. *ArXiv Preprint*. [link](https://arxiv.org/abs/2403.04969)
+
+    We develop a new pixel tracking model in ultrasound and a new self-supervised teacher-student training to utilizes a long-term point-tracking model trained for RGB images as a teacher to guide the model to learn realistic motions and use data augmentation to enforce tracking from US appearance.
+
 **Conferences**
 
 5. R. Bazargani, **W. Chen**, S. Sadeghian, M. Asadi, J. Boschman, A. Darbandsari, A. Bashashati, S. Salcudean, A novel H and E color augmentation for domain invariance classification of unannotated histopathology prostate cancer images. *SPIE Medical Imaging 2023: Digital and Computational Pathology*, San Deigo, 2023, Vol. 12471, pp. 224-229. [link](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/12471/124710X/A-novel-H-and-E-color-augmentation-for-domain-invariance/10.1117/12.2654040.short)
