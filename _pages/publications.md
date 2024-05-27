@@ -49,6 +49,10 @@ You can also find my articles on [Google Scholar](https://scholar.google.com/cit
 
 **Journals**
 
+4. R. Moore, R. Yeung, **W. Chen**, Q. Zeng, E. Prisman, S.E. Salcudean, Enabling extracorporeal ultrasound imaging with the da Vinci robot for transoral robotic surgery: a feasibility study. *International Journal of Computer Assisted Radiology and Surgery*, 2024. [IJCARS](https://link.springer.com/article/10.1007/s11548-024-03160-9).
+
+    We evaluate using an additional robotic (4th) arm on the da Vinci Surgical System to perform extracorporeal US neck scanning in TORS. The robotic US tasks took longer than freehand US but has close operator-rated performance.
+
 3. **W. Chen**, M. Kalia, Q. Zeng, E.H. Pang, R. Bagherinasab, T.D. Milner, F. Sabiq, E. Prisman, S.E. Salcudean, Towards Transcervical Ultrasound Image Guidance for Transoral Robotic Surgery. *International Journal of Computer Assisted Radiology and Surgery*, 2023. [IJCARS](https://link.springer.com/article/10.1007/s11548-023-02898-y), [preprint](https://arxiv.org/abs/2211.16544)
 
     We propose and carry out preliminary evaluations of a US-guided AR system for TORS, with the transducer placed on the neck for a transcervical view. Firstly, we perform a novel MRI-transcervical 3D US registration study. Secondly, we develop a US-robot calibration method with an optical tracker and an AR system to display the anatomy mesh model in the real-time endoscope images inside the surgeon console. We demonstrate the first proof-of-concept transcervical US-guided AR system for TORS and the feasibility of trans-cervical 3D US-MRI registration. Our results show that trans-cervical 3D US is a promising technique for TORS image guidance.
