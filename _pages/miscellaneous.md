@@ -16,6 +16,7 @@ author_profile: true
 * [For every atom belonging to me as good belongs to you](https://www.poetryfoundation.org/poems/45477/song-of-myself-1892-version)
 
 
-What I am training besides my models for these days:
+**What I am training for these days (besides my models!):**
 
-<img src="../images/triathlons.jpg" >
+<img src="../images/triathlon_short_2024.jpg" >
+<img src="../images/duathlon_2023.jpg" >
