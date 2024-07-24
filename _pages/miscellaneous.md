@@ -14,3 +14,8 @@ author_profile: true
 * [Slow Down](https://psyche.co/ideas/slow-down-its-what-your-brain-has-been-begging-for)
 * [Depressive Realism](https://neu-reality.com/2020/03/depressive-realism/)
 * [For every atom belonging to me as good belongs to you](https://www.poetryfoundation.org/poems/45477/song-of-myself-1892-version)
+
+
+What I am training besides my models for these days:
+
+<img src="../images/triathlons.jpg" >
