@@ -14,6 +14,6 @@ I have a M.S. in Robotics from the [Robotics Institute](https://www.ri.cmu.edu/)
 
 Outside research, you can find me skiing, running, biking, hiking, and hitting the gym. I also enjoy good books and coffee.
 
-**News:** I am organizing the [Data Curation and Augmentation in Medical Imaging Workshop at CVPR 2024](https://dca-in-mi.github.io/)!
+<!-- **News:** I am organizing the [Data Curation and Augmentation in Medical Imaging Workshop at CVPR 2024](https://dca-in-mi.github.io/)! -->
 
 *Photo by: [Xulin Liang](https://www.linkedin.com/in/xulin-liang-2448bb1b1/?originalSubdomain=uk)*

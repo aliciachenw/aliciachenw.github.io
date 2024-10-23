@@ -9,4 +9,4 @@ redirect_from:
 
 {% include base_path %}
 
-[Updated on May 27th, 2024](https://aliciachenw.github.io/files/CV.pdf)
+[Updated on Oct 23rd, 2024](https://aliciachenw.github.io/files/CV.pdf)
