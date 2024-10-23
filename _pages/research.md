@@ -13,7 +13,7 @@ author_profile: true
     *  Robotics and Control Laboratory, The University of British Columbia
     * AR System: [*arXiv preprint*](https://arxiv.org/abs/2211.16544), [*IJCARS 2023*](https://link.springer.com/article/10.1007/s11548-023-02898-y)
     * MRI-US registration: [*SPIE: Medical Imaging 2023*](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/12466/1246625/Feasibility-of-MRI-US-registration-in-oropharynx-for-transoral-robotic/10.1117/12.2655032.short)
-    * Realtime US landmark tracking: [*arXiv preprint*](https://arxiv.org/abs/2403.04969)
+    * Realtime US landmark tracking: [ASMUS 2024](https://link.springer.com/chapter/10.1007/978-3-031-73647-6_5), [*arXiv preprint*](https://arxiv.org/abs/2403.04969)
     * Robotic US scanning: [*IJCARS 2024*](https://link.springer.com/article/10.1007/s11548-024-03160-9)
     
     Head and neck-related cancers account for a large percentage of all cancers globally, and transoral robotic surgery (TORS) shows the potential to help preserve the function of the patients after the treatment. However, TORS is challenging because it requires surgeons to have profound knowledge of anatomy. We hypothesize that ultrasound guidance can improve treatment outcomes in head and neck cancers, and we aim at developing novel ultrasound technologies for robotic-assisted surgery. 
