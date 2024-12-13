@@ -18,7 +18,9 @@ author_profile: true
 You can also find my articles on [Google Scholar](https://scholar.google.com/citations?user=jS9csA4AAAAJ&hl=en). \* means equal contribution.
 
 
-<!-- **Preprints** -->
+**Preprints**
+
+**W. Chen**, A. Schmidt, E. Prisman, S.E. Salcudean, Image Retrieval with Intra-Sweep Representation Learning for Neck Ultrasound Scanning Guidance. [link](https://arxiv.org/abs/2412.07741)
 
 
 

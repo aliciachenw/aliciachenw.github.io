@@ -16,7 +16,18 @@ author_profile: true
 * [For every atom belonging to me as good belongs to you](https://www.poetryfoundation.org/poems/45477/song-of-myself-1892-version)
 
 
-**What I am training for these days (besides my models!):**
+**What I am training for these days (besides my models):**
 
 <img src="../images/triathlon_short_2024.jpg" >
 <img src="../images/duathlon_2023.jpg" >
+
+
+**The beautiful mountains in British Columbia:**
+
+<img src="../images/whistler_2024_p1.jpg" >
+<img src="../images/whistler_2024_p2.jpg" >
+<img src="../images/revy_2024_01.jpg" >
+<img src="../images/revy_2024_02.jpg" >
+<img src="../images/elfin_2024.jpg" >
+<img src="../images/garibaldi_2024.jpg" >
+<img src="../images/chief_2024.jpg" >
