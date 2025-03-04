@@ -16,6 +16,10 @@ author_profile: true
 * [For every atom belonging to me as good belongs to you](https://www.poetryfoundation.org/poems/45477/song-of-myself-1892-version)
 
 
+**Features**
+
+[VCHRI Stories](https://www.vchri.ca/stories/2025/01/03/behind-lab-doors-machine-augmented-care-robotics-and-control-laboratory) and [Hospital News](https://hospitalnews.com/behind-the-lab-doors-machine-augmented-care-at-the-robotics-and-control-laboratory/)
+
 **What I am training for these days (besides my models):**
 
 <img src="../images/triathlon_short_2024.jpg" >
