@@ -12,9 +12,9 @@ author_profile: true
 * **Tissue Tracking and Landmark Retrieval in Ultrasound**, *Jan 2023 - present*
     *  Robotics and Control Laboratory, The University of British Columbia
 
-    I am also interested in representation learning or self-supervising learning for ultrasound image analysis. I am hoping to answer this question: how do we learn a pixel or frame-wise representation for ultrasound for down-stream tasks, such as tracking and information intrieval?
+    I am broadly interested in representation learning and/or self-supervising learning for ultrasound image analysis. Recently, I am exploring this question: how can the models learn pixel or frame-wise representations for ultrasound that can be applied in down-stream tasks, such as tracking and information intrieval?
 
-    *  I developed a new tracking-any-point model for US that outperforms state-of-the-art optical flow in [ASMUS 2024](https://link.springer.com/chapter/10.1007/978-3-031-73647-6_5), [*arXiv*](https://arxiv.org/abs/2403.04969).
+    *  I developed a new tracking-any-point model for US that outperforms state-of-the-art optical flow in [*ASMUS 2024*](https://link.springer.com/chapter/10.1007/978-3-031-73647-6_5), [*arXiv*](https://arxiv.org/abs/2403.04969).
 
     * I also developed a self-supervised representation learning approach for US view retrieval and proposed a novel method to leverage intra-sweep temporal information to improve classical contrastive learning:  [*arXiv*](https://arxiv.org/abs/2412.07741).
 
@@ -23,7 +23,7 @@ author_profile: true
 
     Head and neck-related cancers account for a large percentage of all cancers globally, and transoral robotic surgery (TORS) shows the potential to help preserve the function of the patients after the treatment. However, TORS is challenging because it requires surgeons to have profound knowledge of anatomy. We hypothesize that ultrasound guidance can improve treatment outcomes in head and neck cancers, and we aim at developing novel ultrasound technologies for robotic-assisted surgery. 
 
-    My research first tries to build an augmented reality system for TORS. I conducted system design and prototyped  the first ultrasound (US)-guided augmented reality systems for TORS. The work is published in [*IJCARS 2023*](https://link.springer.com/article/10.1007/s11548-023-02898-y), and a free preprint version can be found on [*arXiv*](https://arxiv.org/abs/2211.16544).
+    My research built an augmented reality system for TORS. I conducted system design and prototyped  the first ultrasound (US)-guided augmented reality systems for TORS. The work is published in [*IJCARS 2023*](https://link.springer.com/article/10.1007/s11548-023-02898-y), and a free preprint version can be found on [*arXiv*](https://arxiv.org/abs/2211.16544).
 
     To make the system more intelligent, I am developing methods for head-and-neck MRI, CT, and US segmentation and registration to automate the system registration and calibration process.
     * MRI-US registration feasibility study: [*SPIE: Medical Imaging 2023*](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/12466/1246625/Feasibility-of-MRI-US-registration-in-oropharynx-for-transoral-robotic/10.1117/12.2655032.short)
