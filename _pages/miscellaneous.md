@@ -22,6 +22,7 @@ author_profile: true
 
 **What I am training for these days (besides my models):**
 
+<img src="../images/triathlon_sprint_2025.jpg" >
 <img src="../images/triathlon_short_2024.jpg" >
 <img src="../images/duathlon_2023.jpg" >
 
