@@ -12,8 +12,6 @@ I am Wanwen Chen (陈婉雯), a  Ph.D. candidate in [Electrical and Computer Eng
 
 I have a M.S. in Robotics from the [Robotics Institute](https://www.ri.cmu.edu/) at Carnegie Mellon University, advised by Dr. [John Galeotti](https://www.ri.cmu.edu/ri-faculty/john-galeotti/). Before joining CMU, I received a B.S. in Theoretical and Applied Mechanics from [Peking University](http://english.pku.edu.cn/), where I worked with Dr. [Qining Wang](http://www2.coe.pku.edu.cn/subpaget.asp?id=239). I visited [Biomechatronics Lab](https://uclabiomechatronics.wordpress.com/) at the University of California, Los Angeles, advised by Dr. [Veronica J. Santos](https://samueli.ucla.edu/people/veronica-santos/) for the Cross-disciplinary Scholars in Science and Technology (CSST) in 2018. 
 
-Outside research, you can find me skiing, running, biking, hiking, and hitting the gym. I also enjoy good books and coffee.
-
-<!-- **News:** I am organizing the [Data Curation and Augmentation in Medical Imaging Workshop at CVPR 2024](https://dca-in-mi.github.io/)! -->
+Outside research, you can find me skiing, running, swimming, hiking, and hitting the gym. I also enjoy good books and coffee.
 
 *Photo by: [Xulin Liang](https://www.linkedin.com/in/xulin-liang-2448bb1b1/?originalSubdomain=uk)*
