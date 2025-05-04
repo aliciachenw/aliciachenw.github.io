@@ -15,6 +15,9 @@ author_profile: true
 * [Depressive Realism](https://neu-reality.com/2020/03/depressive-realism/)
 * [For every atom belonging to me as good belongs to you](https://www.poetryfoundation.org/poems/45477/song-of-myself-1892-version)
 
+**Friend(s)**
+
+* [An economist studying AI art :)](https://www.sijielin.com/)
 
 **Features**
 
