@@ -24,11 +24,12 @@ You can also find my articles on [Google Scholar](https://scholar.google.com/cit
 **W. Chen**, C. Studders, J.J. Kwon, E.H.T. Pang, E. Prisman, S.E. Salcudean, Semantic-ICP: Iterative Closest Point for Non-rigid Multi-Organ Point Cloud Registration
 . [link](https://arxiv.org/abs/2503.00972)
 
-**W. Chen**, A. Schmidt, E. Prisman, S.E. Salcudean, Image Retrieval with Intra-Sweep Representation Learning for Neck Ultrasound Scanning Guidance. [link](https://arxiv.org/abs/2412.07741)
-
 
 
 **Journals**
+
+
+**W. Chen**, A. Schmidt, E. Prisman, S.E. Salcudean, Improving neck ultrasound image retrieval using intra-sweep representation learning. *International Journal of Computer Assisted Radiology and Surgery*, 2025. [preprint](https://arxiv.org/abs/2412.07741), [IJCARS](https://link.springer.com/article/10.1007/s11548-025-03394-1).
 
 J.J. Kwon, T.D. Milner, C. Kurten, E.H. Pang, 
 **W. Chen**, K.L. Tran, D. Wilson, D. Dimond, S.E. Salcudean, E. Prisman, Towards transcervical ultrasound-guided transoral robotic surgery. *Oral Oncology*, 2025. [OO](https://www.sciencedirect.com/science/article/pii/S1368837524004858)

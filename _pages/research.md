@@ -16,7 +16,7 @@ author_profile: true
 
     *  I developed a new tracking-any-point model for US that outperforms state-of-the-art optical flow in [*ASMUS 2024*](https://link.springer.com/chapter/10.1007/978-3-031-73647-6_5), [*arXiv*](https://arxiv.org/abs/2403.04969).
 
-    * I also developed a self-supervised representation learning approach for US view retrieval and proposed a novel method to leverage intra-sweep temporal information to improve classical contrastive learning:  [*arXiv*](https://arxiv.org/abs/2412.07741).
+    * I also developed a self-supervised representation learning approach for US view retrieval and proposed a novel method to leverage intra-sweep temporal information to improve classical contrastive learning:  [*arXiv*](https://arxiv.org/abs/2412.07741), [IJCARS](https://link.springer.com/article/10.1007/s11548-025-03394-1).
 
 * **Ultrasound Guidance for Transoral Robotic Surgery**, *Sep 2021 - present*
     *  Robotics and Control Laboratory, The University of British Columbia
