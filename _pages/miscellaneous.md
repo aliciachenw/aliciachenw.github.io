@@ -17,7 +17,7 @@ author_profile: true
 
 **Friend(s)**
 
-* [An economist studying AI art :)](https://www.sijielin.com/)
+* [An economist studying AI art :)](https://www.sijie-lin.com/)
 
 **Features**
 
