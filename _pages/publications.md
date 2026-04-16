@@ -90,9 +90,10 @@ A. L. Y. Hung, Z. Sun, **W. Chen**, J. Galeotti, Hierarchical Probabilistic Ultr
 
 G. R. Gare\*, **W. Chen\***, A. L. Y. Hung, E. Chen, H. V. Tran, T. Fox, P. Lowery, K. Zamora, B. P. deBoisblanc, R. L. Rodriguez, J. Galeotti, The Role of Pleura and Adipose in Lung Ultrasound AI. *MICCAI 2021 workshop on Lessons Learned from the development and application of medical imaging-based AI technologies for combating COVID-19*, 2021, PP. 141-149. [link](https://link.springer.com/chapter/10.1007/978-3-030-90874-4_14)
 
-
-**Master Thesis**
+**PhD Thesis**
 
 **W. Chen**, Towards Transcervical Ultrasound Guidance for Trans-oral Robotic Surgery. *The University of British Columbia*, 2026. [link](http://hdl.handle.net/2429/94072)
+
+**Master Thesis**
 
 **W. Chen**, Ultrasound-based Needle Tracking and Lateral Manipulation Planning for Common Needle Steering. *Carnegie Mellon University*, 2021. [link](https://www.ri.cmu.edu/publications/ultrasound-based-needle-tracking-and-lateral-manipulation-planning-for-common-needle-steering/)
