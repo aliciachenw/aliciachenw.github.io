@@ -54,7 +54,9 @@ Y. Feng\*, **W. Chen\***, and Q. Wang, A strain gauge based locomotion mode reco
 
 **Conferences**
 
- R. Bazargani, **W. Chen**, S. Sadeghian, M. Asadi, J. Boschman, A. Darbandsari, A. Bashashati, S. Salcudean, A novel H and E color augmentation for domain invariance classification of unannotated histopathology prostate cancer images. *SPIE Medical Imaging 2023: Digital and Computational Pathology*, San Deigo, 2023, Vol. 12471, pp. 224-229. [link](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/12471/124710X/A-novel-H-and-E-color-augmentation-for-domain-invariance/10.1117/12.2654040.short)
+J.J.Y. Kwon, **W. Chen**, S. Salcudean, E. Prisman, Integrating transcervical ultrasound with transoral robotic surgery for head and neck cancer. *SPIE Medical Imaging 2026: Image-Guided Procedures, Robotic Interventions, and Modeling*, Vancouver, 2026, Vol. 13927. [link](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/13927/139270Q/Integrating-transcervical-ultrasound-with-transoral-robotic-surgery-for-head-and/10.1117/12.3088212.short)
+
+R. Bazargani, **W. Chen**, S. Sadeghian, M. Asadi, J. Boschman, A. Darbandsari, A. Bashashati, S. Salcudean, A novel H and E color augmentation for domain invariance classification of unannotated histopathology prostate cancer images. *SPIE Medical Imaging 2023: Digital and Computational Pathology*, San Deigo, 2023, Vol. 12471, pp. 224-229. [link](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/12471/124710X/A-novel-H-and-E-color-augmentation-for-domain-invariance/10.1117/12.2654040.short)
 
 <!-- We develop a new color augmnetation algorithm based on the color space statistics to expand the color space of the source dataset and achieve a better domain generalization on new unlabeled dataset.  -->
 
@@ -90,5 +92,7 @@ G. R. Gare\*, **W. Chen\***, A. L. Y. Hung, E. Chen, H. V. Tran, T. Fox, P. Lowe
 
 
 **Master Thesis**
+
+**W. Chen**, Towards Transcervical Ultrasound Guidance for Trans-oral Robotic Surgery. *The University of British Columbia*, 2026. [link](http://hdl.handle.net/2429/94072)
 
 **W. Chen**, Ultrasound-based Needle Tracking and Lateral Manipulation Planning for Common Needle Steering. *Carnegie Mellon University*, 2021. [link](https://www.ri.cmu.edu/publications/ultrasound-based-needle-tracking-and-lateral-manipulation-planning-for-common-needle-steering/)
