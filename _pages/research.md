@@ -10,17 +10,22 @@ author_profile: true
 **Current**
 
 * **Ultrasound Guidance for Transoral Robotic Surgery**, *Sep 2021 - present*
-    *  Robotics and Control Laboratory, The University of British Columbia
+    *  Robotics and Control Laboratory and Prisman Lab, The University of British Columbia
 
     Head and neck-related cancers account for a large percentage of all cancers globally, and transoral robotic surgery (TORS) shows the potential to help preserve the function of the patients after the treatment. However, TORS is challenging because it requires surgeons to have profound knowledge of anatomy. We hypothesize that ultrasound guidance can improve treatment outcomes in head and neck cancers, and we aim at developing novel ultrasound technologies for robotic-assisted surgery. 
 
-    My research built an augmented reality system for TORS. I conducted system design and prototyped  the first ultrasound (US)-guided augmented reality systems for TORS. The work is published in [*IJCARS 2023*](https://link.springer.com/article/10.1007/s11548-023-02898-y), and a free preprint version can be found on [*arXiv*](https://arxiv.org/abs/2211.16544).
+    My research built an augmented reality system for TORS. I conducted system design and prototyped  the first ultrasound (US)-guided augmented reality systems for TORS. The work is published in [*IJCARS 2023*](https://link.springer.com/article/10.1007/s11548-023-02898-y), and a free preprint version is on [*arXiv*](https://arxiv.org/abs/2211.16544).
 
-    To make the system more intelligent, I am developing methods for head-and-neck MRI, CT, and US segmentation and registration to automate the system registration and calibration process.
+    To make the system more intelligent, I am developing methods for head-and-neck MRI, CT, and US segmentation and registration to automate the system registration and calibration process. 
     * MRI-US registration feasibility study: [*SPIE: Medical Imaging 2023*](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/12466/1246625/Feasibility-of-MRI-US-registration-in-oropharynx-for-transoral-robotic/10.1117/12.2655032.short)
     * Point cloud registration using semantic informaiton and biomechanical energy regularization: [*arXiv*](https://arxiv.org/abs/2503.00972)
 
-    We also explore using robot to perform US scan during TORS in [*IJCARS 2024*](https://link.springer.com/article/10.1007/s11548-024-03160-9).
+    Above work can be found in my [*PhD thesis*](http://hdl.handle.net/2429/94072).
+
+    We also explored using robot to perform US scan during TORS in [*IJCARS 2024*](https://link.springer.com/article/10.1007/s11548-024-03160-9).
+
+    At Prisman Lab, we conduct clinical evaluation of US in TORS: [*Oral Oncology*](https://www.sciencedirect.com/science/article/pii/S1368837524004858), [*SPIE: Medical Imaging 2026*](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/13927/139270Q/Integrating-transcervical-ultrasound-with-transoral-robotic-surgery-for-head-and/10.1117/12.3088212.short) 
+
     
 
 
