@@ -8,10 +8,12 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I am Wanwen Chen (陈婉雯). I recently completed my Ph.D. in [Electrical and Computer Engineering](https://ece.ubc.ca/) at the University of British Columbia, supervised by Dr. [Tim Salcudean](https://ece.ubc.ca/tim-salcudean/). I am currently a postdoctoral research fellow at the [Prisman Lab](https://www.prismanlab.ca/) at Vancouver General Hospital. 
+Hi! I am Wanwen Chen (陈婉雯). I am currently a postdoctoral research fellow at the [Prisman Lab](https://www.prismanlab.ca/) at Vancouver General Hospital. I completed my Ph.D. in [Electrical and Computer Engineering](https://ece.ubc.ca/) at the University of British Columbia, supervised by Dr. [Tim Salcudean](https://ece.ubc.ca/tim-salcudean/). 
 
-My research focuses on developing advanced ultrasound and surgical augmented reality systems for transoral robotic surgery, with the goal of improving clinical outcomes through intelligent, image-guided interventions. I build deep learning pipelines for ultrasound, MRI, and CT, and translate these technologies into real-world surgical and robotic applications. With a strong background in interdisciplinary collaboration, I’m passionate about applying cutting-edge robotics and machine learning to healthcare challenges.
+My research focuses on ultrasound and surgical guidance systems for transoral robotic surgery, using deep learning pipelines for ultrasound, MRI, and CT to bring image-guided interventions closer to the clinic.
 
-Previously, I earned a M.S. in Robotics from the [Robotics Institute](https://www.ri.cmu.edu/) at Carnegie Mellon University, where I was advised by Dr. [John Galeotti](https://www.ri.cmu.edu/ri-faculty/john-galeotti/). I earned a B.S. in Theoretical and Applied Mechanics from [Peking University](http://english.pku.edu.cn/), where I worked with Dr. [Qining Wang](http://www2.coe.pku.edu.cn/subpaget.asp?id=239). I’ve had the opportunity to visit [Biomechatronics Lab](https://uclabiomechatronics.wordpress.com/) at the University of California, Los Angeles, advised by Dr. [Veronica J. Santos](https://samueli.ucla.edu/people/veronica-santos/) in 2018. During my PhD, I interned at Intuitive Surgical for developing new sensing tools for the Ion platform and Prenuvo Inc. for AI-based MRI analysis. 
+I hold an M.S. in Robotics from the [Robotics Institute](https://www.ri.cmu.edu/) at Carnegie Mellon (advised by Dr. [John Galeotti](https://www.ri.cmu.edu/ri-faculty/john-galeotti/)) and a B.S. in Theoretical and Applied Mechanics from [Peking University](http://english.pku.edu.cn/) (advised by Dr. Qining Wang). I've also visited the [Biomechatronics Lab](https://uclabiomechatronics.wordpress.com/) at UCLA under Dr. [Veronica J. Santos](https://samueli.ucla.edu/people/veronica-santos/) (2018), and interned at [Intuitive Surgical](https://www.intuitive.com/) (sensing tools for the Ion platform) and [Prenuvo Inc.](https://www.prenuvo.com/) (AI-based MRI analysis).
 
-Outside research, you can find me running, biking, swimming, hitting the gym, or on the mountains for skiing or hiking. 
+You can find my CV [here](https://aliciachenw.github.io/files/CV.pdf).
+
+Outside research, I'm usually running, swimming, at the gym, or in the mountains skiing or hiking.
