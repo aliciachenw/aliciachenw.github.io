@@ -22,21 +22,21 @@ author_profile: true
 
 **What I am training for these days (besides my models):**
 
-<img src="../images/triathlon_sprint_2026.jpg" >
-<img src="../images/triathlon_sprint_2025.jpg" >
-<img src="../images/triathlon_short_2024.jpg" >
-<img src="../images/duathlon_2023.jpg" >
+<img src="../images/personal/triathlon_sprint_2026.jpg" >
+<img src="../images/personal/triathlon_sprint_2025.jpg" >
+<img src="../images/personal/triathlon_short_2024.jpg" >
+<img src="../images/personal/duathlon_2023.jpg" >
 
 
 **The beautiful mountains in British Columbia:**
 
-<img src="../images/whistler_2024_p1.jpg" >
-<img src="../images/whistler_2024_p2.jpg" >
-<img src="../images/revy_2024_01.jpg" >
-<img src="../images/revy_2024_02.jpg" >
-<img src="../images/elfin_2024.jpg" >
-<img src="../images/garibaldi_2024.jpg" >
-<img src="../images/chief_2024.jpg" >
+<img src="../images/personal/whistler_2024_p1.jpg" >
+<img src="../images/personal/whistler_2024_p2.jpg" >
+<img src="../images/personal/revy_2024_01.jpg" >
+<img src="../images/personal/revy_2024_02.jpg" >
+<img src="../images/personal/elfin_2024.jpg" >
+<img src="../images/personal/garibaldi_2024.jpg" >
+<img src="../images/personal/chief_2024.jpg" >
 
 **More**
 * [Blog](https://aliciawwc.wixsite.com/linger-gold)
