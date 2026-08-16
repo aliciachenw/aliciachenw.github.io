@@ -176,7 +176,6 @@ Before graduate school, I worked on sensor fusion for attitude estimation, human
     <p class="research-desc">Modeled hand movement sequences during search-and-retrieval tasks using NLP-inspired motion primitive representations.</p>
   </div>
 </div>
-<!-- 
 <div id="zoom-overlay" aria-hidden="true"><span class="close">&times;</span><img alt="zoomed figure"></div>
 <script>
 (function () {
@@ -199,4 +198,4 @@ Before graduate school, I worked on sensor fusion for attitude estimation, human
     if (e.key === 'Escape') closeOverlay();
   });
 })();
-</script> -->
+</script>
