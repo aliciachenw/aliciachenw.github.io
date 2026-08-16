@@ -11,17 +11,7 @@ author_profile: true
 *Sep 2021 – present, Robotics and Control Laboratory and Prisman Lab, UBC*
  
 Head and neck-related cancers account for a large percentage of all cancers globally, and transoral robotic surgery (TORS) shows the potential to help preserve patient function after treatment. However, TORS is challenging because it requires surgeons to have profound knowledge of anatomy. We hypothesize that ultrasound guidance can improve treatment outcomes in head and neck cancers, and we aim at developing novel ultrasound technologies for robotic-assisted surgery. This work is summarized in my [PhD thesis](http://hdl.handle.net/2429/94072).
- 
-<div class="research-item">
-  <div class="research-image">
-    <img src="../images/AR_demo_ipcai2023.gif" alt="AR system for TORS">
-  </div>
-  <div class="research-content">
-    <h3><a href="https://link.springer.com/article/10.1007/s11548-023-02898-y">Ultrasound-guided augmented reality system for TORS</a></h3>
-    <p class="research-venue"><em>IJCARS</em>, 2023 &middot; <a href="https://arxiv.org/abs/2211.16544">arXiv</a></p>
-    <p class="research-desc">System design and prototype of the first ultrasound-guided augmented reality system for TORS.</p>
-  </div>
-</div>
+
 <div class="research-item">
   <div class="research-image">
     <img src="../images/mri_us_feasibility_spie2023.png" alt="MRI-US registration feasibility study">
@@ -34,12 +24,12 @@ Head and neck-related cancers account for a large percentage of all cancers glob
 </div>
 <div class="research-item">
   <div class="research-image">
-    <img src="../images/semicp_arxiv2025.png" alt="Semantic ICP registration">
+    <img src="../images/AR_demo_ipcai2023.gif" alt="AR system for TORS">
   </div>
   <div class="research-content">
-    <h3><a href="https://arxiv.org/abs/2503.00972">Point cloud registration using semantic information and biomechanical energy regularization</a></h3>
-    <p class="research-venue"><em>arXiv</em>, 2025</p>
-    <p class="research-desc">A non-rigid registration framework incorporating semantic segmentation and biomechanical priors.</p>
+    <h3><a href="https://link.springer.com/article/10.1007/s11548-023-02898-y">Ultrasound-guided augmented reality system for TORS</a></h3>
+    <p class="research-venue"><em>IJCARS</em>, 2023 &middot; <a href="https://arxiv.org/abs/2211.16544">arXiv</a></p>
+    <p class="research-desc">System design and prototype of the first ultrasound-guided augmented reality system for TORS.</p>
   </div>
 </div>
 <div class="research-item">
@@ -50,6 +40,16 @@ Head and neck-related cancers account for a large percentage of all cancers glob
     <h3><a href="https://link.springer.com/article/10.1007/s11548-024-03160-9">Robot-assisted ultrasound scanning for TORS</a></h3>
     <p class="research-venue"><em>IJCARS</em>, 2024</p>
     <p class="research-desc">Exploring robotic manipulation of the ultrasound probe to perform intraoperative scans during TORS.</p>
+  </div>
+</div>
+<div class="research-item">
+  <div class="research-image">
+    <img src="../images/semicp_arxiv2025.png" alt="Semantic ICP registration">
+  </div>
+  <div class="research-content">
+    <h3><a href="https://arxiv.org/abs/2503.00972">Point cloud registration using semantic information and biomechanical energy regularization</a></h3>
+    <p class="research-venue"><em>arXiv</em>, 2025</p>
+    <p class="research-desc">A non-rigid registration framework incorporating semantic segmentation and biomechanical priors.</p>
   </div>
 </div>
 <div class="research-item">
